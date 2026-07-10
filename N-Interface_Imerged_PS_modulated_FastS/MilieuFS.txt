@@ -1,0 +1,12 @@
+nombre de milieux : 1
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2687.8
+Cel    :  1116.5
+S1     : 6685.1e2
+
+
+

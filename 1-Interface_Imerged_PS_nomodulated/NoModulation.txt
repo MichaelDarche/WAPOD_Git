@@ -1,0 +1,5 @@
+TypeMod	:  Sinus
+DeltaM   :  0.
+DeltaF   :  0.
+OmegaM  :  0.0
+ModC    :  00.0

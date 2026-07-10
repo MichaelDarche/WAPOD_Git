@@ -1,0 +1,8 @@
+CFL        : 0.950000
+Excitation : point source
+Forme      : Ondelette
+Fréquence  : 16
+Umax       : 1
+Xsource    : 500.000000
+CL gauche  : Dirichlet
+CL droite  : Dirichlet

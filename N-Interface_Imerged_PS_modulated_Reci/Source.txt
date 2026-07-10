@@ -1,0 +1,11 @@
+CFL       : 0.950000
+Forme     : point source
+Temporel  : JKPS C6
+Onde      : V
+Frequence : 4.5000000
+Force     : 1.000000
+Xsource   : 494
+Rayon     : 0.00
+Sigma     : 0.00
+CL gauche : ouvert
+CL droite : ouvert

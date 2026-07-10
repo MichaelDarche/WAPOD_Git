@@ -1,0 +1,8 @@
+TypeMod	:  Square NS
+Ratio : 0.2
+Synchro : Yes
+DeltaC   :  -0.420204103
+DeltaR   :  0.333333333
+Freq	  : 1.5
+ModC     :  0.0
+Dephasage0 : No

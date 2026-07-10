@@ -1,0 +1,92 @@
+nombre de frontieres : 21
+
+frontiere 1
+Alpha   :  2.00000000000000E+0002
+Contact : parfait
+
+frontiere 2
+Alpha   :  2.40000000000000E+0002
+Contact : parfait
+
+frontiere 3
+Alpha   :  2.60000000000000E+0002
+Contact : parfait
+
+frontiere 4
+Alpha   :  3.00000000000000E+0002
+Contact : parfait
+
+frontiere 5
+Alpha   :  3.20000000000000E+0002
+Contact : parfait
+
+frontiere 6
+Alpha   :  3.60000000000000E+0002
+Contact : parfait
+
+frontiere 7
+Alpha   :  3.80000000000000E+0002
+Contact : parfait
+
+frontiere 8
+Alpha   :  4.20000000000000E+0002
+Contact : parfait
+
+frontiere 9
+Alpha   :  4.40000000000000E+0002
+Contact : parfait
+
+frontiere 10
+Alpha   :  4.80000000000000E+0002
+Contact : parfait
+
+frontiere 11
+Alpha   :  5.00000000000000E+0002
+Contact : parfait
+
+frontiere 12
+Alpha   :  5.40000000000000E+0002
+Contact : parfait
+
+frontiere 13
+Alpha   :  5.60000000000000E+0002
+Contact : parfait
+
+frontiere 14
+Alpha   :  6.00000000000000E+0002
+Contact : parfait
+
+frontiere 15
+Alpha   :  6.20000000000000E+0002
+Contact : parfait
+
+frontiere 16
+Alpha   :  6.60000000000000E+0002
+Contact : parfait
+
+frontiere 17
+Alpha   :  6.80000000000000E+0002
+Contact : parfait
+
+frontiere 18
+Alpha   :  7.20000000000000E+0002
+Contact : parfait
+
+frontiere 19
+Alpha   :  7.40000000000000E+0002
+Contact : parfait
+
+frontiere 20
+Alpha   :  7.80000000000000E+0002
+Contact : parfait
+
+frontiere 21
+Alpha   :  8.00000000000000E+0002
+Contact : parfait
+
+nombre de grilles : 1
+
+grille 0
+Xinf :   -0.50000
+Q : 1
+

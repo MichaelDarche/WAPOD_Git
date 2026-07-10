@@ -1,0 +1,242 @@
+nombre de frontieres : 39
+
+frontiere 1
+Alpha   :  1.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 2
+Alpha   :  2.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 3
+Alpha   :  3.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 4
+Alpha   :  4.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 5
+Alpha   :  5.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 6
+Alpha   :  6.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 7
+Alpha   :  7.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 8
+Alpha   :  8.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 9
+Alpha   :  9.00000000000000E+0001
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 10
+Alpha   :  1.00000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 11
+Alpha   :  1.10000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 12
+Alpha   :  1.20000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 13
+Alpha   :  1.30000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 14
+Alpha   :  1.40000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 15
+Alpha   :  1.50000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 16
+Alpha   :  1.60000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 17
+Alpha   :  1.70000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 18
+Alpha   :  1.80000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 19
+Alpha   :  1.90000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 20
+Alpha   :  2.00000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 21
+Alpha   :  2.10000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 22
+Alpha   :  2.20000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 23
+Alpha   :  2.30000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 24
+Alpha   :  2.40000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 25
+Alpha   :  2.50000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 26
+Alpha   :  2.60000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 27
+Alpha   :  2.70000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 28
+Alpha   :  2.80000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 29
+Alpha   :  2.90000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 30
+Alpha   :  3.00000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 31
+Alpha   :  3.10000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 32
+Alpha   :  3.20000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 33
+Alpha   :  3.30000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 34
+Alpha   :  3.40000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 35
+Alpha   :  3.50000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 36
+Alpha   :  3.60000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 37
+Alpha   :  3.70000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 38
+Alpha   :  3.80000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+frontiere 39
+Alpha   :  3.90000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.45000000000000E+0009
+Mn      :  2.00000000000000E+0004
+
+nombre de grilles : 1
+
+grille 0
+Xinf :   -0.50000
+Q : 1
+

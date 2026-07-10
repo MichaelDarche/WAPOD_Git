@@ -1,0 +1,156 @@
+nombre de milieux : 22
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.50000000000000E+0003
+Cel    :  2.34216017507648E+0003
+
+milieu 1
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 2
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 3
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 4
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 5
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 6
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 7
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 8
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 9
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 10
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 11
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 12
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 13
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 14
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 15
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 16
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 17
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 18
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 19
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3.00000000000000E+0003
+Cel    :  4.00000000000000E+0003
+
+milieu 20
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.00000000000000E+0003
+Cel    :  2.00000000000000E+0003
+
+milieu 21
+Elastique
+Nature : solide
+Modele : -
+Rho    :  2.50000000000000E+0003
+Cel    :  2.34216017507648E+0003
+

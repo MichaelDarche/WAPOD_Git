@@ -1,0 +1,25 @@
+Demarrer
+Nx: 1000
+0..400 m
+CFL : 0.95
+
+Source:
+Sinus
+Fc :200Hz/30Hz
+x0 : 150 m
+
+Modulation:
+Fm : 30Hz/100Hz
+Sinus
+epsK : 0.75
+epsM : 0.75
+
+Frontiere
+x : 200 m
+M : 20000 kg/m^2
+K : 2.45e9 GPa/m
+
+xmesT : 225
+xmesR : 185
+Nmodes : 12
+zero padding : 2**19

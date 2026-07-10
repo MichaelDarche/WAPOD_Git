@@ -1,0 +1,18 @@
+TypeMod	: Cosinus
+Ratio : 0.65
+Synchro : No
+DeltaM   : 0.
+8
+DeltaF   : 0.
+8
+DeltaZ   : 0.8
+DeltaB   : 0.8
+FreqM  : 1000
+FreqF  : 1000
+FreqZ  : 3000
+FreqB  : 3000
+ModM     : 0.0
+ModF     : 0.0
+ModZ     : 0.0
+ModB     : 0.0
+Dephasage0 : No

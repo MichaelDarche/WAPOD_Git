@@ -1,0 +1,10 @@
+TypeMod	:  Sinus
+Synchro : No
+DeltaF   :  9.00000000000000E-0001
+DeltaM   :  9.00000000000000E-0001
+FreqF	  :  15.0
+FreqM    :  15.0
+ModM     :  0.0
+ModF     :  0.0
+Dephasage : Yes
+Phi0    : 0.1

@@ -1,0 +1,14 @@
+nombre de milieux : 1
+
+milieu 0
+SMmod
+Fonction : sinus
+Rho      :  1.20000000000000E+0003
+E        :  9.40800000000000E+0009
+C0       :  4.10000000000000E-0010
+EpsC     :  9.00000000000000E-0001
+FreqM    :  16
+H        :  1.00000000000000E+0001
+X0       :  5
+Ordre    : 2
+

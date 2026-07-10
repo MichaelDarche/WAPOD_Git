@@ -1,0 +1,14 @@
+CFL       : 0.90000
+Forme     : point source
+Cauchy
+Temporel  :File
+FileName : SEECUPP
+JKPS C6
+Onde      : V
+Frequence : 30.000000
+Force     : 1.000000
+Tshift    : 0.065
+0.065
+Xsource   : 0.1
+CL gauche : ouvert
+CL droite : ouvert

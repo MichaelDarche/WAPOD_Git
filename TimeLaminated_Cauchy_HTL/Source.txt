@@ -1,0 +1,11 @@
+CFL       : 0.950000
+Forme     : Cauchy
+point source
+Temporel  : SINUS
+N-Arches   : 10
+Onde      : V
+Frequence : 1.7677669529663689
+Force     : 1.000000
+Tshift    : 2
+CL gauche : ouvert
+CL droite : ouvert

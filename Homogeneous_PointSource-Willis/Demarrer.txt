@@ -1,0 +1,17 @@
+Xinf      :  0.00000000000000E+0000
+Xsup      :  1.00000000000000E+0003
+Nx        : 2000
+Cmod      :  0.00000000000000E+0000
+Gx        : 650
+Gy        : 350
+Nschema   : 2
+Schema0   : Lax-Wendroff
+Splitting : 2
+Esim      : 2
+Npt       : 2
+Amr       : 1
+Schema1   : ADER4
+Splitting : 2
+Esim      : 3
+Npt       : 3
+Amr       : 1

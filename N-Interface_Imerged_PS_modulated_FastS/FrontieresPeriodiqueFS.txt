@@ -1,0 +1,7 @@
+nbcell : 2
+nombre de frontieres par cell : 1
+
+
+frontiere 1
+Alpha   :  5.00000000000000E+0003
+Contact : parfait

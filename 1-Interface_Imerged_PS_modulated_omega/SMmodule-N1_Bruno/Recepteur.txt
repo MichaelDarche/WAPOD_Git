@@ -1,0 +1,4 @@
+nombre de recepteurs : 1
+
+positions : 
+ 3.00000000000000E+0002, 0

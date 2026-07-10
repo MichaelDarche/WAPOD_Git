@@ -1,0 +1,8 @@
+TypeMod	:  Square
+Synchro : Yes
+DeltaF   :  7.50000000000000E-0001
+DeltaM   :  7.50000000000000E-0001
+Freq	  : 32.4
+ModC     :  1950
+Dephasage0 : No
+Dephasage : xct

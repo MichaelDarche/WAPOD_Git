@@ -1,0 +1,12 @@
+nombre de frontieres : 1
+
+frontiere 1
+Alpha   :  4.0000000000000E+0002
+Contact : parfait
+
+nombre de grilles : 1
+
+grille 0
+Xinf :   -0.50000
+Q : 1
+

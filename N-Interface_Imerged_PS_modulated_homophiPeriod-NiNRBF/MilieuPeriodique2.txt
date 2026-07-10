@@ -1,0 +1,73 @@
+nbcell : 100
+nombre de milieux par cell : 9
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 1
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 2
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 3
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 4
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 5
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+
+milieu 6
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 7
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 8
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 9
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003

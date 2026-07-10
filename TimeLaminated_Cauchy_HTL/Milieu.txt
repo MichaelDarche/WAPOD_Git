@@ -1,0 +1,17 @@
+nombre de milieux : 1
+
+Nat : solides modules
+
+milieu 0
+Elastique
+Nature : solide module
+Modele : -
+Rho    :  1.5000000000000E+0003
+Cel    :  1.219578794378E+003
+
+milieu 1
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.0000000000000E+0003
+Cel    :  1.7320508080000E+0003

@@ -1,0 +1,18 @@
+nombre de frontieres : 1
+
+frontiere 1
+Alpha   :  2.00000000000000E+0002
+Contact : SM modulé
+Kn      :  2.45000000000000E+0009
+Mn      :  20000
+Freq    :  5
+ThetaK  :  9.00000000000000E-0001
+ThetaM  :  9.00000000000000E-0001
+Cm      :  0.00000000000000E+0000
+
+nombre de grilles : 1
+
+grille 0
+Xinf :   -0.50000
+Q : 1
+

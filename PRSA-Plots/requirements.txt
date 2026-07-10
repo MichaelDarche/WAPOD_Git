@@ -1,0 +1,16 @@
+# --- CORE ---
+numpy
+scipy
+matplotlib
+
+
+# --- DATA / UTILS ---
+requests
+beautifulsoup4
+pillow
+
+# --- PYTHON TOOLS ---
+black
+flake8
+pylint
+isort

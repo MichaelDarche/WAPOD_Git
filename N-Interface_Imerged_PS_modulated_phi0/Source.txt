@@ -1,0 +1,9 @@
+CFL       : 0.95000
+Forme     : point source
+Temporel  : SINUS
+Onde      : V
+Frequence : 68.000000
+Force     : 1.000000
+Xsource    : 148
+CL gauche : ouvert
+CL droite : ouvert

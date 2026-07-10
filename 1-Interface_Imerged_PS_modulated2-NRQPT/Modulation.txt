@@ -1,0 +1,10 @@
+TypeMod	:  QP-r
+Synchro	: No
+Dephasage: No
+DeltaM   : 0.75
+DeltaF   : 0.75
+FreqM  :  76.0
+FreqF  :  76.0
+ModM     : 0.0
+ModF     : 0.0
+Dephasage0: No

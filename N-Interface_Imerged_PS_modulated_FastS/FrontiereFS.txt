@@ -1,0 +1,10 @@
+nombre de frontieres : 0
+
+frontiere 1
+Alpha   :  9.00000000000000E+03
+Contact : parfait
+
+frontiere 2
+Alpha   :  1.00000000000000E+04
+Contact : parfait
+

@@ -1,0 +1,18 @@
+nombre de récepteurs : 1
+
+positions : 
+300.000000, 0
+
+milieux : 
+S
+
+nombre de pas : 2000
+
+echantillonnage : 1
+
+pas de temps :  3.39285714285714E-0004
+
+nombre de fichiers : 1
+
+nom des fichiers : 
+Sismo_S

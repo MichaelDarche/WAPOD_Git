@@ -1,0 +1,9 @@
+Xinf      :  0.00000000000000E+0000
+Xsup      :  1.00000000000000E+0003
+Nx        : 5000
+Gx        : 800
+Gy        : 350
+Nschema   : 1
+Schema0   : DF2
+Esim      : 1
+Npt       : 1

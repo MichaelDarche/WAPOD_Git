@@ -1,0 +1,6 @@
+TypeMod	:  Sinus
+Synchro : Yes
+DeltaF   :  8.00000000000000E-0001
+DeltaM   :  0.00000000000000E-0001
+Freq	  : 35.8
+ModC     :  0.0

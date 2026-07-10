@@ -1,0 +1,15 @@
+nbcell : 100
+nombre de frontieres par cell : 3
+
+frontiere 1
+Alpha   :  0.300000000000000E+0001
+Contact : parfait
+
+frontiere 2
+Alpha   :  0.70000000000000E+0001
+Contact : parfait
+
+frontiere 3
+Alpha   :  1.00000000000000E+0001
+Contact : parfait
+

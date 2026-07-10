@@ -1,0 +1,12 @@
+Xinf      :  0.00000000000000E+0000
+Xsup      :  4.00000000000000E+0002
+Nx        : 20000
+Cmod      :  0.00000000000000E+0000
+Gx        : 650
+Gy        : 350
+Nschema   : 1
+Schema0   : ADER4
+Splitting : 2
+Esim      : 3
+Npt       : 3
+Amr       : 1

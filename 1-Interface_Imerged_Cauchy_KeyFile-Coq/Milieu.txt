@@ -1,0 +1,16 @@
+nombre de milieux : 2
+
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 1
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003

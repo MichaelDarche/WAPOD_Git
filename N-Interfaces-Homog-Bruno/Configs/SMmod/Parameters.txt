@@ -1,0 +1,27 @@
+*** Domaine ***
+L=1000 m # taille du domaine
+dx=1m # pas du maillage
+rho=1200 kg/m3
+c=2800m/s
+
+*** Source ***
+x=500 m # position de la source
+fc=16Hz # frequence centrale
+Ondelette JKPS
+t=0.18s
+
+*** Interfaces ***
+alpha_0=5m # position de la 1ere interface
+Ni=1 # nombre d'interfaces par cellules
+Nc=100 # nombre de cellules
+h=10m # periodicite
+M=0
+K=2.45e9GPa/m
+
+*** Modulation ***
+fm=[16,32,48,64]
+epsC=0.9
+
+*** Petits parametres ***
+eta0=0.0672
+eta1=[0.134,0.202,0.269,0.331]

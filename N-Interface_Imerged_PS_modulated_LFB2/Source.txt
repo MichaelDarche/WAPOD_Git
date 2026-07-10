@@ -1,0 +1,11 @@
+CFL       : 0.900000
+Forme     : point source
+Temporel  : Ricker
+Onde      : V
+Frequence : 9.3000000
+Force     : 1.000000
+Xsource   : 495
+Rayon     : 0.00
+Sigma     : 0.00
+CL gauche : ouvert
+CL droite : ouvert

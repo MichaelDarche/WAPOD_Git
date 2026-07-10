@@ -1,0 +1,4 @@
+TypeMod	:  Sinus
+Delta   :  0.5
+OmegaM  :  000.0
+WLM     :  1.0

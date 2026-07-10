@@ -1,0 +1,9 @@
+CFL       : 0.950000
+Forme     : Cauchy
+Temporel  : JKPS C6
+Onde      : V
+Frequence : 10.000000
+Force     : 1.000000
+Tshift    : 0.1
+CL gauche : ouvert
+CL droite : ouvert

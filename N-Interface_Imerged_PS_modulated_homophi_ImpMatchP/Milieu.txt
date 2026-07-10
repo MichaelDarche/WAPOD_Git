@@ -1,0 +1,1402 @@
+nombre de milieux : 200
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 1
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 2
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 3
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 4
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 5
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 6
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 7
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 8
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 9
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 10
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 11
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 12
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 13
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 14
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 15
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 16
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 17
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 18
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 19
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 20
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 21
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 22
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 23
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 24
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 25
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 26
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 27
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 28
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 29
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 30
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 31
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 32
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 33
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 34
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 35
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 36
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 37
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 38
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 39
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 40
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 41
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 42
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 43
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 44
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 45
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 46
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 47
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 48
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 49
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 50
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 51
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 52
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 53
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 54
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 55
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 56
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 57
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 58
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 59
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 60
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 61
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 62
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 63
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 64
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 65
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 66
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 67
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 68
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 69
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 70
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 71
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 72
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 73
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 74
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 75
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 76
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 77
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 78
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 79
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 80
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 81
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 82
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 83
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 84
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 85
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 86
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 87
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 88
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 89
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 90
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 91
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 92
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 93
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 94
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 95
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 96
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 97
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 98
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 99
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 100
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 101
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 102
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 103
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 104
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 105
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 106
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 107
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 108
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 109
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 110
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 111
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 112
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 113
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 114
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 115
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 116
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 117
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 118
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 119
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 120
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 121
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 122
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 123
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 124
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 125
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 126
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 127
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 128
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 129
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 130
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 131
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 132
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 133
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 134
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 135
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 136
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 137
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 138
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 139
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 140
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 141
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 142
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 143
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 144
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 145
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 146
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 147
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 148
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 149
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 150
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 151
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 152
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 153
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 154
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 155
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 156
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 157
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 158
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 159
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 160
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 161
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 162
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 163
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 164
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 165
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 166
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 167
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 168
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 169
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 170
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 171
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 172
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 173
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 174
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 175
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 176
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 177
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 178
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 179
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 180
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 181
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 182
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 183
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 184
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 185
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 186
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 187
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 188
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 189
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 190
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 191
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 192
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 193
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 194
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 195
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 196
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 197
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 198
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+
+milieu 199
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1.20000000000000E+0003
+Cel    :  2.80000000000000E+0003
+

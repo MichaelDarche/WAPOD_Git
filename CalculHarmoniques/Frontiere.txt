@@ -1,0 +1,16 @@
+nombre de frontieres : 0
+
+frontiere 1
+Alpha   :  2.00000000000000E+0002
+Contact : masse-ressort module
+Kn      :  2.450000000000E+0009
+Mn      :  2.000000000000E+0004
+beta    :  0
+zeta    :  0
+
+nombre de grilles : 1
+
+grille 0
+Xinf :   -0.50000
+Q : 1
+

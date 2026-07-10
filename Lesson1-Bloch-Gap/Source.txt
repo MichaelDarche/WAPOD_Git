@@ -1,0 +1,12 @@
+CFL       : 0.950000
+Forme     : point source
+Temporel  : SINUS
+Narche    : 0
+Onde      : V
+Frequence : 30
+Force     : 1.000000
+Xsource   : 100.000000
+Rayon     : 0.00
+Sigma     : 0.00
+CL gauche : ouvert
+CL droite : ouvert

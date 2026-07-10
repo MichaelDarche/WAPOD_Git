@@ -1,0 +1,14 @@
+nombre de milieux : 1
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3000
+4602.12
+Cel    :  1200
+4419.823386548437
+S1     : 6e5
+8425200.0
+
+

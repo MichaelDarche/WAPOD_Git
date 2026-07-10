@@ -1,0 +1,24 @@
+nbcell : 100
+nombre de frontieres par cell : 2
+
+frontiere 1
+Alpha   :  0.50000000000000E+0001
+Contact : masse-ressort module independant
+Kn      : 0
+Mn      :  2.00000000000000E+0004
+TypeMod	:  Sinus
+Ratio : 0.5
+Synchro : Yes
+DeltaF   :  9.00000000000000E-0001
+DeltaM   :  9.00000000000000E-0001
+Freq	  : 20
+Dephasage0 : No
+ModC     : 0
+Dephasage : No
+
+
+
+
+frontiere 2
+Alpha   :  1.00000000000000E+0001
+Contact : parfait

@@ -1,0 +1,8 @@
+TypeMod	:  Sinus
+Ratio : 0.65
+Synchro : Yes
+DeltaM   : +0.3
+DeltaF   : +0.3
+Freq  :  300.0
+ModC     : 0.0
+Dephasage0 : No

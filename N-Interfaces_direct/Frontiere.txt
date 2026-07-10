@@ -1,0 +1,404 @@
+nombre de frontieres : 99
+
+frontiere 1
+Alpha   :  5.00000000000000E+0000
+Contact : parfait
+
+frontiere 2
+Alpha   :  2.00000000000000E+0001
+Contact : parfait
+
+frontiere 3
+Alpha   :  2.50000000000000E+0001
+Contact : parfait
+
+frontiere 4
+Alpha   :  4.00000000000000E+0001
+Contact : parfait
+
+frontiere 5
+Alpha   :  4.50000000000000E+0001
+Contact : parfait
+
+frontiere 6
+Alpha   :  6.00000000000000E+0001
+Contact : parfait
+
+frontiere 7
+Alpha   :  6.50000000000000E+0001
+Contact : parfait
+
+frontiere 8
+Alpha   :  8.00000000000000E+0001
+Contact : parfait
+
+frontiere 9
+Alpha   :  8.50000000000000E+0001
+Contact : parfait
+
+frontiere 10
+Alpha   :  1.00000000000000E+0002
+Contact : parfait
+
+frontiere 11
+Alpha   :  1.05000000000000E+0002
+Contact : parfait
+
+frontiere 12
+Alpha   :  1.20000000000000E+0002
+Contact : parfait
+
+frontiere 13
+Alpha   :  1.25000000000000E+0002
+Contact : parfait
+
+frontiere 14
+Alpha   :  1.40000000000000E+0002
+Contact : parfait
+
+frontiere 15
+Alpha   :  1.45000000000000E+0002
+Contact : parfait
+
+frontiere 16
+Alpha   :  1.60000000000000E+0002
+Contact : parfait
+
+frontiere 17
+Alpha   :  1.65000000000000E+0002
+Contact : parfait
+
+frontiere 18
+Alpha   :  1.80000000000000E+0002
+Contact : parfait
+
+frontiere 19
+Alpha   :  1.85000000000000E+0002
+Contact : parfait
+
+frontiere 20
+Alpha   :  2.00000000000000E+0002
+Contact : parfait
+
+frontiere 21
+Alpha   :  2.05000000000000E+0002
+Contact : parfait
+
+frontiere 22
+Alpha   :  2.20000000000000E+0002
+Contact : parfait
+
+frontiere 23
+Alpha   :  2.25000000000000E+0002
+Contact : parfait
+
+frontiere 24
+Alpha   :  2.40000000000000E+0002
+Contact : parfait
+
+frontiere 25
+Alpha   :  2.45000000000000E+0002
+Contact : parfait
+
+frontiere 26
+Alpha   :  2.60000000000000E+0002
+Contact : parfait
+
+frontiere 27
+Alpha   :  2.65000000000000E+0002
+Contact : parfait
+
+frontiere 28
+Alpha   :  2.80000000000000E+0002
+Contact : parfait
+
+frontiere 29
+Alpha   :  2.85000000000000E+0002
+Contact : parfait
+
+frontiere 30
+Alpha   :  3.00000000000000E+0002
+Contact : parfait
+
+frontiere 31
+Alpha   :  3.05000000000000E+0002
+Contact : parfait
+
+frontiere 32
+Alpha   :  3.20000000000000E+0002
+Contact : parfait
+
+frontiere 33
+Alpha   :  3.25000000000000E+0002
+Contact : parfait
+
+frontiere 34
+Alpha   :  3.40000000000000E+0002
+Contact : parfait
+
+frontiere 35
+Alpha   :  3.45000000000000E+0002
+Contact : parfait
+
+frontiere 36
+Alpha   :  3.60000000000000E+0002
+Contact : parfait
+
+frontiere 37
+Alpha   :  3.65000000000000E+0002
+Contact : parfait
+
+frontiere 38
+Alpha   :  3.80000000000000E+0002
+Contact : parfait
+
+frontiere 39
+Alpha   :  3.85000000000000E+0002
+Contact : parfait
+
+frontiere 40
+Alpha   :  4.00000000000000E+0002
+Contact : parfait
+
+frontiere 41
+Alpha   :  4.05000000000000E+0002
+Contact : parfait
+
+frontiere 42
+Alpha   :  4.20000000000000E+0002
+Contact : parfait
+
+frontiere 43
+Alpha   :  4.25000000000000E+0002
+Contact : parfait
+
+frontiere 44
+Alpha   :  4.40000000000000E+0002
+Contact : parfait
+
+frontiere 45
+Alpha   :  4.45000000000000E+0002
+Contact : parfait
+
+frontiere 46
+Alpha   :  4.60000000000000E+0002
+Contact : parfait
+
+frontiere 47
+Alpha   :  4.65000000000000E+0002
+Contact : parfait
+
+frontiere 48
+Alpha   :  4.80000000000000E+0002
+Contact : parfait
+
+frontiere 49
+Alpha   :  4.85000000000000E+0002
+Contact : parfait
+
+frontiere 50
+Alpha   :  5.00000000000000E+0002
+Contact : parfait
+
+frontiere 51
+Alpha   :  5.05000000000000E+0002
+Contact : parfait
+
+frontiere 52
+Alpha   :  5.20000000000000E+0002
+Contact : parfait
+
+frontiere 53
+Alpha   :  5.25000000000000E+0002
+Contact : parfait
+
+frontiere 54
+Alpha   :  5.40000000000000E+0002
+Contact : parfait
+
+frontiere 55
+Alpha   :  5.45000000000000E+0002
+Contact : parfait
+
+frontiere 56
+Alpha   :  5.60000000000000E+0002
+Contact : parfait
+
+frontiere 57
+Alpha   :  5.65000000000000E+0002
+Contact : parfait
+
+frontiere 58
+Alpha   :  5.80000000000000E+0002
+Contact : parfait
+
+frontiere 59
+Alpha   :  5.85000000000000E+0002
+Contact : parfait
+
+frontiere 60
+Alpha   :  6.00000000000000E+0002
+Contact : parfait
+
+frontiere 61
+Alpha   :  6.05000000000000E+0002
+Contact : parfait
+
+frontiere 62
+Alpha   :  6.20000000000000E+0002
+Contact : parfait
+
+frontiere 63
+Alpha   :  6.25000000000000E+0002
+Contact : parfait
+
+frontiere 64
+Alpha   :  6.40000000000000E+0002
+Contact : parfait
+
+frontiere 65
+Alpha   :  6.45000000000000E+0002
+Contact : parfait
+
+frontiere 66
+Alpha   :  6.60000000000000E+0002
+Contact : parfait
+
+frontiere 67
+Alpha   :  6.65000000000000E+0002
+Contact : parfait
+
+frontiere 68
+Alpha   :  6.80000000000000E+0002
+Contact : parfait
+
+frontiere 69
+Alpha   :  6.85000000000000E+0002
+Contact : parfait
+
+frontiere 70
+Alpha   :  7.00000000000000E+0002
+Contact : parfait
+
+frontiere 71
+Alpha   :  7.05000000000000E+0002
+Contact : parfait
+
+frontiere 72
+Alpha   :  7.20000000000000E+0002
+Contact : parfait
+
+frontiere 73
+Alpha   :  7.25000000000000E+0002
+Contact : parfait
+
+frontiere 74
+Alpha   :  7.40000000000000E+0002
+Contact : parfait
+
+frontiere 75
+Alpha   :  7.45000000000000E+0002
+Contact : parfait
+
+frontiere 76
+Alpha   :  7.60000000000000E+0002
+Contact : parfait
+
+frontiere 77
+Alpha   :  7.65000000000000E+0002
+Contact : parfait
+
+frontiere 78
+Alpha   :  7.80000000000000E+0002
+Contact : parfait
+
+frontiere 79
+Alpha   :  7.85000000000000E+0002
+Contact : parfait
+
+frontiere 80
+Alpha   :  8.00000000000000E+0002
+Contact : parfait
+
+frontiere 81
+Alpha   :  8.05000000000000E+0002
+Contact : parfait
+
+frontiere 82
+Alpha   :  8.20000000000000E+0002
+Contact : parfait
+
+frontiere 83
+Alpha   :  8.25000000000000E+0002
+Contact : parfait
+
+frontiere 84
+Alpha   :  8.40000000000000E+0002
+Contact : parfait
+
+frontiere 85
+Alpha   :  8.45000000000000E+0002
+Contact : parfait
+
+frontiere 86
+Alpha   :  8.60000000000000E+0002
+Contact : parfait
+
+frontiere 87
+Alpha   :  8.65000000000000E+0002
+Contact : parfait
+
+frontiere 88
+Alpha   :  8.80000000000000E+0002
+Contact : parfait
+
+frontiere 89
+Alpha   :  8.85000000000000E+0002
+Contact : parfait
+
+frontiere 90
+Alpha   :  9.00000000000000E+0002
+Contact : parfait
+
+frontiere 91
+Alpha   :  9.05000000000000E+0002
+Contact : parfait
+
+frontiere 92
+Alpha   :  9.20000000000000E+0002
+Contact : parfait
+
+frontiere 93
+Alpha   :  9.25000000000000E+0002
+Contact : parfait
+
+frontiere 94
+Alpha   :  9.40000000000000E+0002
+Contact : parfait
+
+frontiere 95
+Alpha   :  9.45000000000000E+0002
+Contact : parfait
+
+frontiere 96
+Alpha   :  9.60000000000000E+0002
+Contact : parfait
+
+frontiere 97
+Alpha   :  9.65000000000000E+0002
+Contact : parfait
+
+frontiere 98
+Alpha   :  9.80000000000000E+0002
+Contact : parfait
+
+frontiere 99
+Alpha   :  9.85000000000000E+0002
+Contact : parfait
+
+nombre de grilles : 1
+
+grille 0
+Xinf :   -0.50000
+Q : 1
+
