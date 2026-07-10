@@ -1,0 +1,19 @@
+nbcell : 100
+nombre de milieux par cell : 2
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1200
+Cel    :  2800
+
+milieu 1
+Elastique
+Nature : solide
+Modele : -
+Rho    :  1200
+Cel    :  2800
+
+
+

@@ -1,0 +1,11 @@
+nbcell : 1
+nombre de milieux par cell : 1
+
+milieu 0
+Elastique
+Nature : solide
+Modele : -
+Rho    :  3128.1
+Cel    :  1373.3
+
+
